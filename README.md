@@ -3,6 +3,7 @@
 This is a simple web application that predicts the type of Iris flower based on user input parameters such as sepal length, sepal width, petal length, and petal width.
 
 ##Libraries used
+
 The following Python libraries were used to develop this app:
 
 streamlit
@@ -10,6 +11,7 @@ pandas
 scikit-learn
 
 ## User Input Parameters
+
 The user can set the input parameters using the sliders provided in the sidebar. The following are the input parameters:
 
 Sepal length
@@ -26,5 +28,6 @@ Iris Setosa
 Iris Versicolour
 Iris Virginica
 
-##Prediction Probability
+## Prediction Probability
+
 The app displays the probability of each class label based on the input parameters provided by the user.
